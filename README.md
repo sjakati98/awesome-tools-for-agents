@@ -25,7 +25,7 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
 
 
 ## Libraries
-- To be added
+- [Outlines](https://github.com/outlines-dev/outlines) - Structured text generation.
 
 ## Frameworks
 - [Langchain](https://python.langchain.com/v0.1/docs/modules/agents/) - Langchain is a framework for building conversational agents. It is designed to be modular and extensible, and provides a simple interface for building conversational agents.
