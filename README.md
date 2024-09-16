@@ -18,7 +18,8 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
 - Search
     - [Exa Ai](https://exa.ai) - The Exa API retrieves the best content on the web using embeddings-based search
     - [Tavily](https://tavily.com) - Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results.
-
+- Crawling
+    - [Firecrawl](https://github.com/mendableai/firecrawl) - Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 ## Premade Tools
 - [Langchain Toolkits ](https://python.langchain.com/v0.1/docs/integrations/toolkits/) - Toolkits are collections of tools that are designed to be used together for specific tasks. They have convenient loading methods.
 
