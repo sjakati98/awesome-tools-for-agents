@@ -19,6 +19,8 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
     - [Exa Ai](https://exa.ai) - The Exa API retrieves the best content on the web using embeddings-based search
     - [Tavily](https://tavily.com) - Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results.
     - [Steel.dev](https://github.com/steel-dev/steel-browser) - Steel is an open-source browser API that lets you control fleets of browsers in the cloud.
+- Code Understanding
+    - [Gitingest](https://github.com/cyclotruc/gitingest) - Web interface to turn codebases into prompt-friendly text
 - Crawling
     - [Firecrawl](https://github.com/mendableai/firecrawl) - Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 ## Premade Tools
