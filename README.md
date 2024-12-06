@@ -10,6 +10,7 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
 - [Tools](#tools)
 - [Libraries](#libraries)
 - [Frameworks](#frameworks)
+- [Observability](#observability)
 - [Papers](#papers)
 
 ---
@@ -34,7 +35,11 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
 
 ## Frameworks
 - [Langchain](https://python.langchain.com/v0.1/docs/modules/agents/) - Langchain is a framework for building conversational agents. It is designed to be modular and extensible, and provides a simple interface for building conversational agents.
+- [CrewAI](https://www.crewai.com/open-source) - Framework for orchestrating role-playing, autonomous AI agents.
 
+## Observability
+- [AgentOps](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more.
+- 
 
 ## Papers
 - To be added
