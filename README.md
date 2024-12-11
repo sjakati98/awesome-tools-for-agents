@@ -25,6 +25,8 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
     - [Gitingest](https://github.com/cyclotruc/gitingest) - Web interface to turn codebases into prompt-friendly text
 - Crawling
     - [Firecrawl](https://github.com/mendableai/firecrawl) - Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- Memory
+    - [Mem0](https://github.com/mem0ai/mem0) - Mem0 (pronounced as "mem-zero") enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
 ## Premade Tools
 - [Langchain Toolkits ](https://python.langchain.com/v0.1/docs/integrations/toolkits/) - Toolkits are collections of tools that are designed to be used together for specific tasks. They have convenient loading methods.
 
