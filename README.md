@@ -43,6 +43,7 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
 
 ## Observability
 - [AgentOps](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more.
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first TUI and CLI for AI coding agent trace logs, cost tracking, token usage, latency, and failure regression gates.
 
 
 ## Papers
