@@ -16,6 +16,8 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
 ---
 
 ## APIs
+
+- [Statsnet](https://statsnet.co/mcp) - Background check any company in the world: registration, executives, courts and finances. ([GitHub](https://github.com/usenetstate/statsnet-mcp))
 - Search
     - [Exa Ai](https://exa.ai) - The Exa API retrieves the best content on the web using embeddings-based search
     - [Tavily](https://tavily.com) - Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results.
