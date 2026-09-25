@@ -30,6 +30,7 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
     - [Mem0](https://github.com/mem0ai/mem0) - Mem0 (pronounced as "mem-zero") enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
 ## Premade Tools
 - [Langchain Toolkits ](https://python.langchain.com/v0.1/docs/integrations/toolkits/) - Toolkits are collections of tools that are designed to be used together for specific tasks. They have convenient loading methods.
+- [API.market MCP Gateway](https://api.market/mcp) - Five hosted tools for agents to discover and call APIs, check usage, and manage subscriptions at `https://api.market/api/mcp/gateway`; account and OAuth or API key required, with pricing varying by API.
 
 
 
