@@ -30,6 +30,7 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
     - [Mem0](https://github.com/mem0ai/mem0) - Mem0 (pronounced as "mem-zero") enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
 ## Premade Tools
 - [Langchain Toolkits ](https://python.langchain.com/v0.1/docs/integrations/toolkits/) - Toolkits are collections of tools that are designed to be used together for specific tasks. They have convenient loading methods.
+- [agent-qa](https://vostride.com) - MCP-enabled natural-language web, Android and iOS QA tool with persistent memidex memory, validated self-improvement and inspectable run evidence; [FSL-1.1-ALv2](https://vostride.com/license.md) restricts competing use, with model and infrastructure costs separate.
 
 
 
