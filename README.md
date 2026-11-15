@@ -16,6 +16,8 @@ Awesome List of tools that can be used by conversational agents and LLMs. Geared
 ---
 
 ## APIs
+
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) — Search verified small live music venues and booking contacts across all 50 US states ([nostairsplease.com](https://nostairsplease.com/)).
 - Search
     - [Exa Ai](https://exa.ai) - The Exa API retrieves the best content on the web using embeddings-based search
     - [Tavily](https://tavily.com) - Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results.
